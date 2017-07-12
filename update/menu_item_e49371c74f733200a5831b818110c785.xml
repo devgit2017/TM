@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="menu_item">
+    <menu_item action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category/>
+        <description/>
+        <detail_page/>
+        <iframe/>
+        <image/>
+        <logged_on>false</logged_on>
+        <menu_section display_value="Business Services">a89371c74f733200a5831b818110c77d</menu_section>
+        <name>Hosting Services</name>
+        <order>50</order>
+        <roles/>
+        <sys_class_name>menu_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-07-11 08:04:51</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>e49371c74f733200a5831b818110c785</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Hosting Services</sys_name>
+        <sys_package display_value="TM" source="x_13174_tm">1a8b45324f333200a5831b818110c76f</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="TM">1a8b45324f333200a5831b818110c76f</sys_scope>
+        <sys_update_name>menu_item_e49371c74f733200a5831b818110c785</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-07-11 08:04:51</sys_updated_on>
+        <tag/>
+        <target>internal</target>
+        <type>url</type>
+        <url>category_browse.do?sysparm_document_key=sc_category,c114a2960a0a0b8300470e187df6f65b</url>
+    </menu_item>
+</record_update>

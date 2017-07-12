@@ -1,0 +1,458 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update node_type="content_page" unload_date="2017-07-12 10:14:30">
+    <sys_portal action="delete_multiple" query="page=9c9371c74f733200a5831b818110c72a">
+        <related_items_node>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone>dropzone0</dropzone>
+                <offset>0</offset>
+                <page display_value="Business Service Portfolio | ESS Portal">9c9371c74f733200a5831b818110c72a</page>
+                <summary/>
+                <sys_created_by>admin</sys_created_by>
+                <sys_created_on>2017-07-11 08:04:52</sys_created_on>
+                <sys_id>209371c74f733200a5831b818110c7a3</sys_id>
+                <sys_mod_count>0</sys_mod_count>
+                <sys_updated_by>admin</sys_updated_by>
+                <sys_updated_on>2017-07-11 08:04:52</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 2017-07-11 01:04:52">209371c74f733200a5831b818110c7a3</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2017-07-11 08:04:52</sys_created_on>
+                        <sys_id>2c9371c74f733200a5831b818110c7ab</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2017-07-11 08:04:52</sys_updated_on>
+                        <value>Portal - Header with Super Menu</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>current_page</name>
+                        <portal_section display_value="Created 2017-07-11 01:04:52">209371c74f733200a5831b818110c7a3</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2017-07-11 08:04:52</sys_created_on>
+                        <sys_id>609371c74f733200a5831b818110c7af</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2017-07-11 08:04:52</sys_updated_on>
+                        <value>4b82a8ecef502000914304167b2256a4</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 2017-07-11 01:04:52">209371c74f733200a5831b818110c7a3</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2017-07-11 08:04:52</sys_created_on>
+                        <sys_id>a49371c74f733200a5831b818110c7af</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2017-07-11 08:04:52</sys_updated_on>
+                        <value>com.glide.cms.RenderBlock</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 2017-07-11 01:04:52">209371c74f733200a5831b818110c7a3</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2017-07-11 08:04:52</sys_created_on>
+                        <sys_id>a89371c74f733200a5831b818110c7ae</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2017-07-11 08:04:52</sys_updated_on>
+                        <value>649371c74f733200a5831b818110c7ac</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>type</name>
+                        <portal_section display_value="Created 2017-07-11 01:04:52">209371c74f733200a5831b818110c7a3</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2017-07-11 08:04:52</sys_created_on>
+                        <sys_id>e49371c74f733200a5831b818110c7ab</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2017-07-11 08:04:52</sys_updated_on>
+                        <value>content_block_header</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone>dropzone10</dropzone>
+                <offset>0</offset>
+                <page display_value="Business Service Portfolio | ESS Portal">9c9371c74f733200a5831b818110c72a</page>
+                <summary/>
+                <sys_created_by>admin</sys_created_by>
+                <sys_created_on>2017-07-11 08:04:51</sys_created_on>
+                <sys_id>549371c74f733200a5831b818110c76c</sys_id>
+                <sys_mod_count>0</sys_mod_count>
+                <sys_updated_by>admin</sys_updated_by>
+                <sys_updated_on>2017-07-11 08:04:51</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 2017-07-11 01:04:51">549371c74f733200a5831b818110c76c</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2017-07-11 08:04:51</sys_created_on>
+                        <sys_id>109371c74f733200a5831b818110c773</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2017-07-11 08:04:51</sys_updated_on>
+                        <value>378331c74f733200a5831b818110c7c1</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>current_page</name>
+                        <portal_section display_value="Created 2017-07-11 01:04:51">549371c74f733200a5831b818110c76c</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2017-07-11 08:04:51</sys_created_on>
+                        <sys_id>1c9371c74f733200a5831b818110c771</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2017-07-11 08:04:51</sys_updated_on>
+                        <value>4b82a8ecef502000914304167b2256a4</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 2017-07-11 01:04:51">549371c74f733200a5831b818110c76c</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2017-07-11 08:04:51</sys_created_on>
+                        <sys_id>509371c74f733200a5831b818110c772</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2017-07-11 08:04:51</sys_updated_on>
+                        <value>com.glide.cms.RenderBlock</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 2017-07-11 01:04:51">549371c74f733200a5831b818110c76c</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2017-07-11 08:04:51</sys_created_on>
+                        <sys_id>949371c74f733200a5831b818110c772</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2017-07-11 08:04:51</sys_updated_on>
+                        <value>Global Homepage Search Block</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>type</name>
+                        <portal_section display_value="Created 2017-07-11 01:04:51">549371c74f733200a5831b818110c76c</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2017-07-11 08:04:51</sys_created_on>
+                        <sys_id>d89371c74f733200a5831b818110c772</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2017-07-11 08:04:51</sys_updated_on>
+                        <value>content_block_programmatic</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone>dropzone100</dropzone>
+                <offset>0</offset>
+                <page display_value="Business Service Portfolio | ESS Portal">9c9371c74f733200a5831b818110c72a</page>
+                <summary/>
+                <sys_created_by>admin</sys_created_by>
+                <sys_created_on>2017-07-11 08:04:52</sys_created_on>
+                <sys_id>ac9371c74f733200a5831b818110c799</sys_id>
+                <sys_mod_count>0</sys_mod_count>
+                <sys_updated_by>admin</sys_updated_by>
+                <sys_updated_on>2017-07-11 08:04:52</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>type</name>
+                        <portal_section display_value="Created 2017-07-11 01:04:52">ac9371c74f733200a5831b818110c799</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2017-07-11 08:04:52</sys_created_on>
+                        <sys_id>249371c74f733200a5831b818110c7a2</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2017-07-11 08:04:52</sys_updated_on>
+                        <value>content_block_static</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>current_page</name>
+                        <portal_section display_value="Created 2017-07-11 01:04:52">ac9371c74f733200a5831b818110c799</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2017-07-11 08:04:52</sys_created_on>
+                        <sys_id>649371c74f733200a5831b818110c7a1</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2017-07-11 08:04:52</sys_updated_on>
+                        <value>4b82a8ecef502000914304167b2256a4</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 2017-07-11 01:04:52">ac9371c74f733200a5831b818110c799</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2017-07-11 08:04:52</sys_created_on>
+                        <sys_id>689371c74f733200a5831b818110c7a2</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2017-07-11 08:04:52</sys_updated_on>
+                        <value>cc9331c74f733200a5831b818110c7fe</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 2017-07-11 01:04:52">ac9371c74f733200a5831b818110c799</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2017-07-11 08:04:52</sys_created_on>
+                        <sys_id>a89371c74f733200a5831b818110c7a1</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2017-07-11 08:04:52</sys_updated_on>
+                        <value>com.glide.cms.RenderBlock</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 2017-07-11 01:04:52">ac9371c74f733200a5831b818110c799</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2017-07-11 08:04:52</sys_created_on>
+                        <sys_id>ec9371c74f733200a5831b818110c7a1</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2017-07-11 08:04:52</sys_updated_on>
+                        <value>Portal - Footer</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone>dropzone10</dropzone>
+                <offset>3</offset>
+                <page display_value="Business Service Portfolio | ESS Portal">9c9371c74f733200a5831b818110c72a</page>
+                <summary/>
+                <sys_created_by>admin</sys_created_by>
+                <sys_created_on>2017-07-11 08:04:51</sys_created_on>
+                <sys_id>d09371c74f733200a5831b818110c766</sys_id>
+                <sys_mod_count>0</sys_mod_count>
+                <sys_updated_by>admin</sys_updated_by>
+                <sys_updated_on>2017-07-11 08:04:51</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>current_page</name>
+                        <portal_section display_value="Created 2017-07-11 01:04:51">d09371c74f733200a5831b818110c766</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2017-07-11 08:04:51</sys_created_on>
+                        <sys_id>109371c74f733200a5831b818110c76c</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2017-07-11 08:04:51</sys_updated_on>
+                        <value>4b82a8ecef502000914304167b2256a4</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>type</name>
+                        <portal_section display_value="Created 2017-07-11 01:04:51">d09371c74f733200a5831b818110c766</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2017-07-11 08:04:51</sys_created_on>
+                        <sys_id>149371c74f733200a5831b818110c76b</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2017-07-11 08:04:51</sys_updated_on>
+                        <value>content_block_iframe</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 2017-07-11 01:04:51">d09371c74f733200a5831b818110c766</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2017-07-11 08:04:51</sys_created_on>
+                        <sys_id>589371c74f733200a5831b818110c76b</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2017-07-11 08:04:51</sys_updated_on>
+                        <value>089371c74f733200a5831b818110c70b</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 2017-07-11 01:04:51">d09371c74f733200a5831b818110c766</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2017-07-11 08:04:51</sys_created_on>
+                        <sys_id>989371c74f733200a5831b818110c76a</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2017-07-11 08:04:51</sys_updated_on>
+                        <value>com.glide.cms.RenderBlock</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 2017-07-11 01:04:51">d09371c74f733200a5831b818110c766</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2017-07-11 08:04:51</sys_created_on>
+                        <sys_id>dc9371c74f733200a5831b818110c76a</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2017-07-11 08:04:51</sys_updated_on>
+                        <value>Administration iFrame</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone>dropzone10</dropzone>
+                <offset>1</offset>
+                <page display_value="Business Service Portfolio | ESS Portal">9c9371c74f733200a5831b818110c72a</page>
+                <summary/>
+                <sys_created_by>admin</sys_created_by>
+                <sys_created_on>2017-07-11 08:04:50</sys_created_on>
+                <sys_id>d49371c74f733200a5831b818110c72d</sys_id>
+                <sys_mod_count>0</sys_mod_count>
+                <sys_updated_by>admin</sys_updated_by>
+                <sys_updated_on>2017-07-11 08:04:50</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 2017-07-11 01:04:50">d49371c74f733200a5831b818110c72d</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2017-07-11 08:04:50</sys_created_on>
+                        <sys_id>149371c74f733200a5831b818110c731</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2017-07-11 08:04:50</sys_updated_on>
+                        <value>Portal - Block Menu</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>type</name>
+                        <portal_section display_value="Created 2017-07-11 01:04:50">d49371c74f733200a5831b818110c72d</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2017-07-11 08:04:50</sys_created_on>
+                        <sys_id>589371c74f733200a5831b818110c731</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2017-07-11 08:04:50</sys_updated_on>
+                        <value>content_block_menu</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>current_page</name>
+                        <portal_section display_value="Created 2017-07-11 01:04:50">d49371c74f733200a5831b818110c72d</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2017-07-11 08:04:51</sys_created_on>
+                        <sys_id>9c9371c74f733200a5831b818110c765</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2017-07-11 08:04:51</sys_updated_on>
+                        <value>4b82a8ecef502000914304167b2256a4</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 2017-07-11 01:04:50">d49371c74f733200a5831b818110c72d</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2017-07-11 08:04:51</sys_created_on>
+                        <sys_id>d49371c74f733200a5831b818110c765</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2017-07-11 08:04:51</sys_updated_on>
+                        <value>909371c74f733200a5831b818110c732</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 2017-07-11 01:04:50">d49371c74f733200a5831b818110c72d</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2017-07-11 08:04:50</sys_created_on>
+                        <sys_id>dc9371c74f733200a5831b818110c730</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2017-07-11 08:04:50</sys_updated_on>
+                        <value>com.glide.cms.RenderBlock</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone>dropzone10</dropzone>
+                <offset>2</offset>
+                <page display_value="Business Service Portfolio | ESS Portal">9c9371c74f733200a5831b818110c72a</page>
+                <summary/>
+                <sys_created_by>admin</sys_created_by>
+                <sys_created_on>2017-07-11 08:04:51</sys_created_on>
+                <sys_id>d49371c74f733200a5831b818110c773</sys_id>
+                <sys_mod_count>0</sys_mod_count>
+                <sys_updated_by>admin</sys_updated_by>
+                <sys_updated_on>2017-07-11 08:04:51</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>type</name>
+                        <portal_section display_value="Created 2017-07-11 01:04:51">d49371c74f733200a5831b818110c773</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2017-07-11 08:04:51</sys_created_on>
+                        <sys_id>289371c74f733200a5831b818110c77a</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2017-07-11 08:04:51</sys_updated_on>
+                        <value>content_block_menu</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 2017-07-11 01:04:51">d49371c74f733200a5831b818110c773</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2017-07-11 08:04:51</sys_created_on>
+                        <sys_id>6c9371c74f733200a5831b818110c77a</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2017-07-11 08:04:51</sys_updated_on>
+                        <value>Business Services Portfolio</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>current_page</name>
+                        <portal_section display_value="Created 2017-07-11 01:04:51">d49371c74f733200a5831b818110c773</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2017-07-11 08:04:51</sys_created_on>
+                        <sys_id>ac9371c74f733200a5831b818110c779</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2017-07-11 08:04:51</sys_updated_on>
+                        <value>4b82a8ecef502000914304167b2256a4</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 2017-07-11 01:04:51">d49371c74f733200a5831b818110c773</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2017-07-11 08:04:51</sys_created_on>
+                        <sys_id>e09371c74f733200a5831b818110c77a</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2017-07-11 08:04:51</sys_updated_on>
+                        <value>com.glide.cms.RenderBlock</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 2017-07-11 01:04:51">d49371c74f733200a5831b818110c773</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2017-07-11 08:04:52</sys_created_on>
+                        <sys_id>e49371c74f733200a5831b818110c799</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2017-07-11 08:04:52</sys_updated_on>
+                        <value>a49371c74f733200a5831b818110c77b</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+        </related_items_node>
+    </sys_portal>
+    <content_page action="INSERT_OR_UPDATE">
+        <content_site display_value="TM">738335834f733200a5831b818110c7f6</content_site>
+        <content_theme/>
+        <description>Maintain your site in a managed environment built within the ServiceNow CMS for the CMS.</description>
+        <frame_buster>true</frame_buster>
+        <layout display_value="TM - CMS 1 Column">849371c74f733200a5831b818110c70f</layout>
+        <model_id/>
+        <model_table/>
+        <name>TM - Business Service Portfolio</name>
+        <order/>
+        <parent_page display_value="CMS Administration">d1421954ef481000914304167b225602</parent_page>
+        <read_roles/>
+        <roles/>
+        <selectable>true</selectable>
+        <sys_class_name>content_page</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-07-11 08:04:50</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>9c9371c74f733200a5831b818110c72a</sys_id>
+        <sys_mod_count>6</sys_mod_count>
+        <sys_name>TM - Business Service Portfolio</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="TM" source="x_13174_tm">1a8b45324f333200a5831b818110c76f</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="TM">1a8b45324f333200a5831b818110c76f</sys_scope>
+        <sys_update_name>content_page_9c9371c74f733200a5831b818110c72a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-07-11 08:04:52</sys_updated_on>
+        <title>Business Service Portfolio | ESS Portal</title>
+        <url_suffix>portfolio</url_suffix>
+        <user/>
+        <view/>
+        <workflow_state>published</workflow_state>
+    </content_page>
+</record_update>

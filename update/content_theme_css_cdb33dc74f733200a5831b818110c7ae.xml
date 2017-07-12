@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="content_theme_css">
+    <content_theme_css action="INSERT_OR_UPDATE">
+        <content_css display_value="TM - Gray CSS - Menu">45b33dc74f733200a5831b818110c7ad</content_css>
+        <content_theme display_value="TM - Gray">01b33dc74f733200a5831b818110c7a7</content_theme>
+        <order>30</order>
+        <sys_class_name>content_theme_css</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-07-11 08:05:27</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>cdb33dc74f733200a5831b818110c7ae</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>TM - Gray CSS - Menu.TM - Gray</sys_name>
+        <sys_package display_value="TM" source="x_13174_tm">1a8b45324f333200a5831b818110c76f</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="TM">1a8b45324f333200a5831b818110c76f</sys_scope>
+        <sys_update_name>content_theme_css_cdb33dc74f733200a5831b818110c7ae</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-07-11 08:05:27</sys_updated_on>
+    </content_theme_css>
+</record_update>

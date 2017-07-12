@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="New Job" max_length="40" name="x_13174_tm_new_job" type="collection">
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Req Number" max_length="40" name="number" type="string"/>
+        <element label="Bill Rate" max_length="40" name="u_bill_rate" type="float"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="New Choice" max_length="40" name="u_choice_3" type="string">
+            <choice>
+                <element label="Choice 1" sequence="0" value="Choice 1"/>
+                <element label="Choice 2" sequence="1" value="Choice 2"/>
+                <element label="Choice 3" sequence="2" value="Choice 3"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Client" max_length="40" name="u_client" type="string">
+            <choice>
+                <element label="AEP" sequence="0" value="AEP"/>
+                <element label="Ahelio" sequence="1" value="Ahelio"/>
+                <element label="Alliance" sequence="2" value="Alliance"/>
+                <element label="American Medical Equipment" sequence="3" value="American Medical Equipment"/>
+                <element label="Ameriprise" sequence="4" value="Ameriprise"/>
+                <element label="AmerisourceBergen" sequence="5" value="AmerisourceBergen"/>
+                <element label="ARC" sequence="6" value="ARC"/>
+                <element label="Ashland" sequence="7" value="Ashland"/>
+                <element label="Auld" sequence="8" value="Auld"/>
+                <element label="Battelle" sequence="9" value="Battelle"/>
+                <element label="Cardinal Health" sequence="10" value="Cardinal Health"/>
+                <element label="Cheryls Cookies" sequence="11" value="Cheryls Cookies"/>
+                <element label="Choice Recovery" sequence="12" value="Choice Recovery"/>
+                <element label="Climate Right" sequence="13" value="Climate Right"/>
+                <element label="Columbus Regional Airport" sequence="14" value="Columbus Regional Airport"/>
+                <element label="ComResource" sequence="15" value="ComResource"/>
+                <element label="CVS" sequence="16" value="CVS"/>
+                <element label="Direct" sequence="17" value="Direct"/>
+                <element label="EDPS" sequence="18" value="EDPS"/>
+                <element label="Eloquii" sequence="19" value="Eloquii"/>
+                <element label="Fairfield County" sequence="20" value="Fairfield County"/>
+                <element label="Fiserv" sequence="21" value="Fiserv"/>
+                <element label="GCG" sequence="22" value="GCG"/>
+                <element label="Gnoesis" sequence="23" value="Gnoesis"/>
+                <element label="Handyman Matters" sequence="24" value="Handyman Matters"/>
+                <element label="HP" sequence="25" value="HP"/>
+                <element label="IGS" sequence="26" value="IGS"/>
+                <element label="iSys" sequence="27" value="iSys"/>
+                <element label="JetCoat" sequence="28" value="JetCoat"/>
+                <element label="Kolbe" sequence="29" value="Kolbe"/>
+                <element label="Lasership" sequence="30" value="Lasership"/>
+                <element label="Law Firm" sequence="31" value="Law Firm"/>
+                <element label="LD Management" sequence="32" value="LD Management"/>
+                <element label="Liberty Mutual" sequence="33" value="Liberty Mutual"/>
+                <element label="Lowes" sequence="34" value="Lowes"/>
+                <element label="Luxottica" sequence="35" value="Luxottica"/>
+                <element label="Marzetti" sequence="36" value="Marzetti"/>
+                <element label="Mass Mutual" sequence="37" value="Mass Mutual"/>
+                <element label="McGraw Hill" sequence="38" value="McGraw Hill"/>
+                <element label="Merrill" sequence="39" value="Merrill"/>
+                <element label="Metlife" sequence="40" value="Metlife"/>
+                <element label="Momentive" sequence="41" value="Momentive"/>
+                <element label="Morgan Stanley" sequence="42" value="Morgan Stanley"/>
+                <element label="Nationwide" sequence="43" value="Nationwide"/>
+                <element label="OneSight" sequence="44" value="OneSight"/>
+                <element label="OSU" sequence="45" value="OSU"/>
+                <element label="P&amp;G" sequence="46" value="P&amp;G"/>
+                <element label="PCM" sequence="47" value="PCM"/>
+                <element label="PetSmart" sequence="48" value="PetSmart"/>
+                <element label="Plaza" sequence="49" value="Plaza"/>
+                <element label="Portfolio Creative" sequence="50" value="Portfolio Creative"/>
+                <element label="Quantum Health" sequence="51" value="Quantum Health"/>
+                <element label="Rickenbacker" sequence="52" value="Rickenbacker"/>
+                <element label="Roche" sequence="53" value="Roche"/>
+                <element label="Roche Molecular Systems" sequence="54" value="Roche Molecular Systems"/>
+                <element label="Sedgwick" sequence="55" value="Sedgwick"/>
+                <element label="Solstice Sleep" sequence="56" value="Solstice Sleep"/>
+                <element label="South Bloomfield PD" sequence="57" value="South Bloomfield PD"/>
+                <element label="SPECIAL-One Off Client" sequence="58" value="SPECIAL-One Off Client"/>
+                <element label="Superior Beverage" sequence="59" value="Superior Beverage"/>
+                <element label="Taylor Communications" sequence="60" value="Taylor Communications"/>
+                <element label="TEST" sequence="61" value="TEST"/>
+                <element label="US Steel" sequence="62" value="US Steel"/>
+                <element label="Vantiv" sequence="63" value="Vantiv"/>
+                <element label="Ventana" sequence="64" value="Ventana"/>
+                <element label="Vertiv" sequence="65" value="Vertiv"/>
+                <element label="VF Corp" sequence="66" value="VF Corp"/>
+                <element label="Webster Bank" sequence="67" value="Webster Bank"/>
+                <element label="Worthington Industries" sequence="68" value="Worthington Industries"/>
+                <element label="York RSG" sequence="69" value="York RSG"/>
+                <element label="Zulily" sequence="70" value="Zulily"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Direct Send" max_length="40" name="u_direct_send" type="string">
+            <choice>
+                <element label="Yes" sequence="0" value="Yes"/>
+                <element label="No" sequence="1" value="No"/>
+                <element label="Hire off resume" sequence="2" value=" Hire off resume"/>
+                <element label="Pass Thru" sequence="3" value=" Pass Thru"/>
+            </choice>
+        </element>
+        <element label="End Date" max_length="40" name="u_end_date" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true" label="Full Location - Street Address" max_length="40" name="u_full_address" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Full Location - Street Address" max_length="40" name="u_full_location" type="string">
+            <choice/>
+        </element>
+        <element attributes="no_sort=true,slushbucket_ref_no_expand=true" label="New List" max_length="1024" name="u_glide_list_2" type="glide_list"/>
+        <element attributes="edge_encryption_enabled=true" label="Hiring Manager" max_length="40" name="u_hiring_manager" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Job Description" max_length="40" name="u_job_description" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Job Title" max_length="40" name="u_job_title" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Notes" max_length="40" name="u_notes" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Number of openings" max_length="40" name="u_number_of_openings" type="string"/>
+        <element label="Pay Rate" max_length="40" name="u_pay_rate" type="float"/>
+        <element label="Start Date" max_length="40" name="u_start_date" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Type of role" max_length="40" name="u_type_of_role" type="string">
+            <choice>
+                <element label="Accounting/Finance" sequence="0" value="Accounting/Finance"/>
+                <element label="Admin/Clerical" sequence="1" value="Admin/Clerical"/>
+                <element label="Business Analyst" sequence="2" value="Business Analyst"/>
+                <element label="Clinical Research" sequence="3" value="Clinical Research"/>
+                <element label="Clinical Tech" sequence="4" value="Clinical Tech"/>
+                <element label="Customer Service" sequence="5" value="Customer Service"/>
+                <element label="Direct" sequence="6" value="Direct"/>
+                <element label="Engineering" sequence="7" value="Engineering"/>
+                <element label="HR" sequence="8" value="HR"/>
+                <element label="IT Dev" sequence="9" value="IT Dev"/>
+                <element label="IT Support" sequence="10" value="IT Support"/>
+                <element label="Light Industrial" sequence="11" value="Light Industrial"/>
+                <element label="Project Management" sequence="12" value="Project Management"/>
+                <element label="Scientific" sequence="13" value="Scientific"/>
+                <element label="Test" sequence="14" value="Test"/>
+                <element label="Aquent" sequence="15" value="Aquent"/>
+                <element label="Creative" sequence="16" value="Creative"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="VMS/Client Contact" max_length="40" name="u_vms_client_contact" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Zip Code" max_length="40" name="u_zipcode" type="string"/>
+        <element label="Zip Code" max_length="15" name="u_zip_code" type="decimal"/>
+    </element>
+</database>

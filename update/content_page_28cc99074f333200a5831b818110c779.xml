@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update node_type="content_page" unload_date="2017-07-12 10:14:27">
+    <sys_portal action="delete_multiple" query="page=28cc99074f333200a5831b818110c779">
+        <related_items_node>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone>dropzone10</dropzone>
+                <offset>0</offset>
+                <page display_value="Login | ESS Portal">28cc99074f333200a5831b818110c779</page>
+                <summary>CMS Clean Login</summary>
+                <sys_created_by>admin</sys_created_by>
+                <sys_created_on>2017-07-11 06:25:12</sys_created_on>
+                <sys_id>64ccddcb4f333200a5831b818110c7c5</sys_id>
+                <sys_mod_count>0</sys_mod_count>
+                <sys_updated_by>admin</sys_updated_by>
+                <sys_updated_on>2017-07-11 06:25:12</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 2017-07-10 23:25:12">64ccddcb4f333200a5831b818110c7c5</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2017-07-11 06:25:12</sys_created_on>
+                        <sys_id>28ccddcb4f333200a5831b818110c7cb</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2017-07-11 06:25:12</sys_updated_on>
+                        <value>9123ac9e0a0a0bf000b2675a498e6a14</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 2017-07-10 23:25:12">64ccddcb4f333200a5831b818110c7c5</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2017-07-11 06:25:12</sys_created_on>
+                        <sys_id>68ccddcb4f333200a5831b818110c7ca</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2017-07-11 06:25:12</sys_updated_on>
+                        <value>CMS Clean Login</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>type</name>
+                        <portal_section display_value="Created 2017-07-10 23:25:12">64ccddcb4f333200a5831b818110c7c5</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2017-07-11 06:25:12</sys_created_on>
+                        <sys_id>acccddcb4f333200a5831b818110c7ca</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2017-07-11 06:25:12</sys_updated_on>
+                        <value>content_block_programmatic</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>current_page</name>
+                        <portal_section display_value="Created 2017-07-10 23:25:12">64ccddcb4f333200a5831b818110c7c5</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2017-07-11 06:25:12</sys_created_on>
+                        <sys_id>e0ccddcb4f333200a5831b818110c7cb</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2017-07-11 06:25:12</sys_updated_on>
+                        <value>66ed13bac0a8016b01e0e17da5f5338f</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 2017-07-10 23:25:12">64ccddcb4f333200a5831b818110c7c5</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2017-07-11 06:25:12</sys_created_on>
+                        <sys_id>ecccddcb4f333200a5831b818110c7cb</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2017-07-11 06:25:12</sys_updated_on>
+                        <value>com.glide.cms.RenderBlock</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone>dropzone0</dropzone>
+                <offset>0</offset>
+                <page display_value="Login | ESS Portal">28cc99074f333200a5831b818110c779</page>
+                <summary>Portal - Header</summary>
+                <sys_created_by>admin</sys_created_by>
+                <sys_created_on>2017-07-11 06:25:11</sys_created_on>
+                <sys_id>a4ccddcb4f333200a5831b818110c7bf</sys_id>
+                <sys_mod_count>0</sys_mod_count>
+                <sys_updated_by>admin</sys_updated_by>
+                <sys_updated_on>2017-07-11 06:25:11</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>current_page</name>
+                        <portal_section display_value="Created 2017-07-10 23:25:11">a4ccddcb4f333200a5831b818110c7bf</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2017-07-11 06:25:12</sys_created_on>
+                        <sys_id>20ccddcb4f333200a5831b818110c7c5</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2017-07-11 06:25:12</sys_updated_on>
+                        <value>66ed13bac0a8016b01e0e17da5f5338f</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 2017-07-10 23:25:11">a4ccddcb4f333200a5831b818110c7bf</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2017-07-11 06:25:12</sys_created_on>
+                        <sys_id>60ccddcb4f333200a5831b818110c7c4</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2017-07-11 06:25:12</sys_updated_on>
+                        <value>com.glide.cms.RenderBlock</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 2017-07-10 23:25:11">a4ccddcb4f333200a5831b818110c7bf</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2017-07-11 06:25:12</sys_created_on>
+                        <sys_id>a4ccddcb4f333200a5831b818110c7c4</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2017-07-11 06:25:12</sys_updated_on>
+                        <value>Portal - Header</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 2017-07-10 23:25:11">a4ccddcb4f333200a5831b818110c7bf</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2017-07-11 06:25:12</sys_created_on>
+                        <sys_id>a8ccddcb4f333200a5831b818110c7c3</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2017-07-11 06:25:12</sys_updated_on>
+                        <value>34c60a140a0a0b9700439f6f043e431d</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>type</name>
+                        <portal_section display_value="Created 2017-07-10 23:25:11">a4ccddcb4f333200a5831b818110c7bf</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2017-07-11 06:25:12</sys_created_on>
+                        <sys_id>e8ccddcb4f333200a5831b818110c7c4</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2017-07-11 06:25:12</sys_updated_on>
+                        <value>content_block_header</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone>dropzone100</dropzone>
+                <offset>0</offset>
+                <page display_value="Login | ESS Portal">28cc99074f333200a5831b818110c779</page>
+                <summary>Portal - Footer</summary>
+                <sys_created_by>admin</sys_created_by>
+                <sys_created_on>2017-07-11 06:25:11</sys_created_on>
+                <sys_id>e4ccddcb4f333200a5831b818110c7b8</sys_id>
+                <sys_mod_count>0</sys_mod_count>
+                <sys_updated_by>admin</sys_updated_by>
+                <sys_updated_on>2017-07-11 06:25:11</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>current_page</name>
+                        <portal_section display_value="Created 2017-07-10 23:25:11">e4ccddcb4f333200a5831b818110c7b8</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2017-07-11 06:25:11</sys_created_on>
+                        <sys_id>2cccddcb4f333200a5831b818110c7be</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2017-07-11 06:25:11</sys_updated_on>
+                        <value>66ed13bac0a8016b01e0e17da5f5338f</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 2017-07-10 23:25:11">e4ccddcb4f333200a5831b818110c7b8</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2017-07-11 06:25:11</sys_created_on>
+                        <sys_id>60ccddcb4f333200a5831b818110c7bf</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2017-07-11 06:25:11</sys_updated_on>
+                        <value>Portal - Footer</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 2017-07-10 23:25:11">e4ccddcb4f333200a5831b818110c7b8</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2017-07-11 06:25:11</sys_created_on>
+                        <sys_id>a0ccddcb4f333200a5831b818110c7be</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2017-07-11 06:25:11</sys_updated_on>
+                        <value>com.glide.cms.RenderBlock</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 2017-07-10 23:25:11">e4ccddcb4f333200a5831b818110c7b8</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2017-07-11 06:25:11</sys_created_on>
+                        <sys_id>a4ccddcb4f333200a5831b818110c7bd</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2017-07-11 06:25:11</sys_updated_on>
+                        <value>67e6be630a0a0b42001db99dc8173e8e</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>type</name>
+                        <portal_section display_value="Created 2017-07-10 23:25:11">e4ccddcb4f333200a5831b818110c7b8</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2017-07-11 06:25:11</sys_created_on>
+                        <sys_id>e4ccddcb4f333200a5831b818110c7be</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2017-07-11 06:25:11</sys_updated_on>
+                        <value>content_block_static</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+        </related_items_node>
+    </sys_portal>
+    <content_page action="INSERT_OR_UPDATE">
+        <content_site display_value="Employee Self-Service">5767a89fc0a8016b012f6aecb0c816a4</content_site>
+        <content_theme/>
+        <description/>
+        <frame_buster>true</frame_buster>
+        <layout display_value="CMS 1 Column">67f092fa0a0a0b420026133b8feff1c2</layout>
+        <model_id/>
+        <model_table/>
+        <name>Copy of Portal - Login Page</name>
+        <order/>
+        <parent_page/>
+        <read_roles/>
+        <roles/>
+        <selectable>true</selectable>
+        <sys_class_name>content_page</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-07-11 06:25:11</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>28cc99074f333200a5831b818110c779</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>Copy of Portal - Login Page</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="TM" source="x_13174_tm">1a8b45324f333200a5831b818110c76f</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="TM">1a8b45324f333200a5831b818110c76f</sys_scope>
+        <sys_update_name>content_page_28cc99074f333200a5831b818110c779</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-07-11 06:25:12</sys_updated_on>
+        <title>Login | ESS Portal</title>
+        <url_suffix>copy_of_portal_login</url_suffix>
+        <user/>
+        <view/>
+        <workflow_state>draft</workflow_state>
+    </content_page>
+</record_update>

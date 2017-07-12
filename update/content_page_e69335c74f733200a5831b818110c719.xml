@@ -1,0 +1,458 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update node_type="content_page" unload_date="2017-07-12 10:14:32">
+    <sys_portal action="delete_multiple" query="page=e69335c74f733200a5831b818110c719">
+        <related_items_node>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone>dropzone20</dropzone>
+                <offset>0</offset>
+                <page display_value="Order Hardware | ESS Portal">e69335c74f733200a5831b818110c719</page>
+                <summary>Portal - Nav Column Common</summary>
+                <sys_created_by>admin</sys_created_by>
+                <sys_created_on>2017-07-11 08:04:59</sys_created_on>
+                <sys_id>229335c74f733200a5831b818110c71c</sys_id>
+                <sys_mod_count>0</sys_mod_count>
+                <sys_updated_by>admin</sys_updated_by>
+                <sys_updated_on>2017-07-11 08:04:59</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>type</name>
+                        <portal_section display_value="Created 2017-07-11 01:04:59">229335c74f733200a5831b818110c71c</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2017-07-11 08:05:00</sys_created_on>
+                        <sys_id>2e9335c74f733200a5831b818110c71f</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2017-07-11 08:05:00</sys_updated_on>
+                        <value>content_block_programmatic</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>current_page</name>
+                        <portal_section display_value="Created 2017-07-11 01:04:59">229335c74f733200a5831b818110c71c</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2017-07-11 08:05:00</sys_created_on>
+                        <sys_id>629335c74f733200a5831b818110c720</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2017-07-11 08:05:00</sys_updated_on>
+                        <value>5cfc0e5c0a0a0bb10119419823fd0d82</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 2017-07-11 01:04:59">229335c74f733200a5831b818110c71c</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2017-07-11 08:05:00</sys_created_on>
+                        <sys_id>6e9335c74f733200a5831b818110c720</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2017-07-11 08:05:00</sys_updated_on>
+                        <value>com.glide.cms.RenderBlock</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 2017-07-11 01:04:59">229335c74f733200a5831b818110c71c</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2017-07-11 08:05:00</sys_created_on>
+                        <sys_id>a69335c74f733200a5831b818110c720</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2017-07-11 08:05:00</sys_updated_on>
+                        <value>f893b1c74f733200a5831b818110c708</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 2017-07-11 01:04:59">229335c74f733200a5831b818110c71c</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2017-07-11 08:05:00</sys_created_on>
+                        <sys_id>e69335c74f733200a5831b818110c71f</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2017-07-11 08:05:00</sys_updated_on>
+                        <value>Portal - Nav Column Common</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone>dropzone10</dropzone>
+                <offset>1</offset>
+                <page display_value="Order Hardware | ESS Portal">e69335c74f733200a5831b818110c719</page>
+                <summary>Order Hardware</summary>
+                <sys_created_by>admin</sys_created_by>
+                <sys_created_on>2017-07-11 08:05:00</sys_created_on>
+                <sys_id>269335c74f733200a5831b818110c72e</sys_id>
+                <sys_mod_count>0</sys_mod_count>
+                <sys_updated_by>admin</sys_updated_by>
+                <sys_updated_on>2017-07-11 08:05:00</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 2017-07-11 01:05:00">269335c74f733200a5831b818110c72e</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2017-07-11 08:05:00</sys_created_on>
+                        <sys_id>229335c74f733200a5831b818110c737</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2017-07-11 08:05:00</sys_updated_on>
+                        <value>ae9335c74f733200a5831b818110c734</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 2017-07-11 01:05:00">269335c74f733200a5831b818110c72e</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2017-07-11 08:05:00</sys_created_on>
+                        <sys_id>2e9335c74f733200a5831b818110c737</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2017-07-11 08:05:00</sys_updated_on>
+                        <value>Order Hardware</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>type</name>
+                        <portal_section display_value="Created 2017-07-11 01:05:00">269335c74f733200a5831b818110c72e</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2017-07-11 08:05:00</sys_created_on>
+                        <sys_id>629335c74f733200a5831b818110c738</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2017-07-11 08:05:00</sys_updated_on>
+                        <value>content_block_iframe</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>current_page</name>
+                        <portal_section display_value="Created 2017-07-11 01:05:00">269335c74f733200a5831b818110c72e</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2017-07-11 08:05:00</sys_created_on>
+                        <sys_id>a69335c74f733200a5831b818110c738</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2017-07-11 08:05:00</sys_updated_on>
+                        <value>5cfc0e5c0a0a0bb10119419823fd0d82</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 2017-07-11 01:05:00">269335c74f733200a5831b818110c72e</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2017-07-11 08:05:00</sys_created_on>
+                        <sys_id>e69335c74f733200a5831b818110c737</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2017-07-11 08:05:00</sys_updated_on>
+                        <value>com.glide.cms.RenderBlock</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone>dropzone0</dropzone>
+                <offset>0</offset>
+                <page display_value="Order Hardware | ESS Portal">e69335c74f733200a5831b818110c719</page>
+                <summary>Portal - Header</summary>
+                <sys_created_by>admin</sys_created_by>
+                <sys_created_on>2017-07-11 08:05:00</sys_created_on>
+                <sys_id>669335c74f733200a5831b818110c74e</sys_id>
+                <sys_mod_count>0</sys_mod_count>
+                <sys_updated_by>admin</sys_updated_by>
+                <sys_updated_on>2017-07-11 08:05:00</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>type</name>
+                        <portal_section display_value="Created 2017-07-11 01:05:00">669335c74f733200a5831b818110c74e</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2017-07-11 08:05:00</sys_created_on>
+                        <sys_id>229335c74f733200a5831b818110c757</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2017-07-11 08:05:00</sys_updated_on>
+                        <value>content_block_header</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 2017-07-11 01:05:00">669335c74f733200a5831b818110c74e</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2017-07-11 08:05:00</sys_created_on>
+                        <sys_id>629335c74f733200a5831b818110c758</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2017-07-11 08:05:00</sys_updated_on>
+                        <value>com.glide.cms.RenderBlock</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>current_page</name>
+                        <portal_section display_value="Created 2017-07-11 01:05:00">669335c74f733200a5831b818110c74e</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2017-07-11 08:05:00</sys_created_on>
+                        <sys_id>669335c74f733200a5831b818110c757</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2017-07-11 08:05:00</sys_updated_on>
+                        <value>5cfc0e5c0a0a0bb10119419823fd0d82</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 2017-07-11 01:05:00">669335c74f733200a5831b818110c74e</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2017-07-11 08:05:00</sys_created_on>
+                        <sys_id>aa9335c74f733200a5831b818110c757</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2017-07-11 08:05:00</sys_updated_on>
+                        <value>989371c74f733200a5831b818110c720</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 2017-07-11 01:05:00">669335c74f733200a5831b818110c74e</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2017-07-11 08:05:00</sys_created_on>
+                        <sys_id>ea9335c74f733200a5831b818110c756</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2017-07-11 08:05:00</sys_updated_on>
+                        <value>Portal - Header</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone>dropzone20</dropzone>
+                <offset>2</offset>
+                <page display_value="Order Hardware | ESS Portal">e69335c74f733200a5831b818110c719</page>
+                <summary>Top Requests</summary>
+                <sys_created_by>admin</sys_created_by>
+                <sys_created_on>2017-07-11 08:05:00</sys_created_on>
+                <sys_id>a29335c74f733200a5831b818110c721</sys_id>
+                <sys_mod_count>0</sys_mod_count>
+                <sys_updated_by>admin</sys_updated_by>
+                <sys_updated_on>2017-07-11 08:05:00</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 2017-07-11 01:05:00">a29335c74f733200a5831b818110c721</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2017-07-11 08:05:00</sys_created_on>
+                        <sys_id>269335c74f733200a5831b818110c726</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2017-07-11 08:05:00</sys_updated_on>
+                        <value>Top Requests</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 2017-07-11 01:05:00">a29335c74f733200a5831b818110c721</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2017-07-11 08:05:00</sys_created_on>
+                        <sys_id>2a9335c74f733200a5831b818110c725</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2017-07-11 08:05:00</sys_updated_on>
+                        <value>e993f1c74f733200a5831b818110c701</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>type</name>
+                        <portal_section display_value="Created 2017-07-11 01:05:00">a29335c74f733200a5831b818110c721</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2017-07-11 08:05:00</sys_created_on>
+                        <sys_id>6a9335c74f733200a5831b818110c726</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2017-07-11 08:05:00</sys_updated_on>
+                        <value>content_block_programmatic</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>current_page</name>
+                        <portal_section display_value="Created 2017-07-11 01:05:00">a29335c74f733200a5831b818110c721</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2017-07-11 08:05:00</sys_created_on>
+                        <sys_id>ae9335c74f733200a5831b818110c726</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2017-07-11 08:05:00</sys_updated_on>
+                        <value>5cfc0e5c0a0a0bb10119419823fd0d82</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 2017-07-11 01:05:00">a29335c74f733200a5831b818110c721</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2017-07-11 08:05:00</sys_created_on>
+                        <sys_id>ee9335c74f733200a5831b818110c725</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2017-07-11 08:05:00</sys_updated_on>
+                        <value>com.glide.cms.RenderBlock</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone>dropzone10</dropzone>
+                <offset>0</offset>
+                <page display_value="Order Hardware | ESS Portal">e69335c74f733200a5831b818110c719</page>
+                <summary>Portal - Content Column Common</summary>
+                <sys_created_by>admin</sys_created_by>
+                <sys_created_on>2017-07-11 08:05:00</sys_created_on>
+                <sys_id>e29335c74f733200a5831b818110c727</sys_id>
+                <sys_mod_count>0</sys_mod_count>
+                <sys_updated_by>admin</sys_updated_by>
+                <sys_updated_on>2017-07-11 08:05:00</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 2017-07-11 01:05:00">e29335c74f733200a5831b818110c727</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2017-07-11 08:05:00</sys_created_on>
+                        <sys_id>229335c74f733200a5831b818110c72d</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2017-07-11 08:05:00</sys_updated_on>
+                        <value>com.glide.cms.RenderBlock</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>type</name>
+                        <portal_section display_value="Created 2017-07-11 01:05:00">e29335c74f733200a5831b818110c727</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2017-07-11 08:05:00</sys_created_on>
+                        <sys_id>669335c74f733200a5831b818110c72d</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2017-07-11 08:05:00</sys_updated_on>
+                        <value>content_block_programmatic</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 2017-07-11 01:05:00">e29335c74f733200a5831b818110c727</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2017-07-11 08:05:00</sys_created_on>
+                        <sys_id>6a9335c74f733200a5831b818110c72c</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2017-07-11 08:05:00</sys_updated_on>
+                        <value>b89371c74f733200a5831b818110c7d8</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>current_page</name>
+                        <portal_section display_value="Created 2017-07-11 01:05:00">e29335c74f733200a5831b818110c727</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2017-07-11 08:05:00</sys_created_on>
+                        <sys_id>aa9335c74f733200a5831b818110c72d</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2017-07-11 08:05:00</sys_updated_on>
+                        <value>5cfc0e5c0a0a0bb10119419823fd0d82</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 2017-07-11 01:05:00">e29335c74f733200a5831b818110c727</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2017-07-11 08:05:00</sys_created_on>
+                        <sys_id>ee9335c74f733200a5831b818110c72d</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2017-07-11 08:05:00</sys_updated_on>
+                        <value>Portal - Content Column Common</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone>dropzone20</dropzone>
+                <offset>1</offset>
+                <page display_value="Order Hardware | ESS Portal">e69335c74f733200a5831b818110c719</page>
+                <summary>My Requests</summary>
+                <sys_created_by>admin</sys_created_by>
+                <sys_created_on>2017-07-11 08:05:00</sys_created_on>
+                <sys_id>ea9335c74f733200a5831b818110c738</sys_id>
+                <sys_mod_count>0</sys_mod_count>
+                <sys_updated_by>admin</sys_updated_by>
+                <sys_updated_on>2017-07-11 08:05:00</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 2017-07-11 01:05:00">ea9335c74f733200a5831b818110c738</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2017-07-11 08:05:00</sys_created_on>
+                        <sys_id>229335c74f733200a5831b818110c74e</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2017-07-11 08:05:00</sys_updated_on>
+                        <value>My Requests</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 2017-07-11 01:05:00">ea9335c74f733200a5831b818110c738</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2017-07-11 08:05:00</sys_created_on>
+                        <sys_id>2e9335c74f733200a5831b818110c74c</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2017-07-11 08:05:00</sys_updated_on>
+                        <value/>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 2017-07-11 01:05:00">ea9335c74f733200a5831b818110c738</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2017-07-11 08:05:00</sys_created_on>
+                        <sys_id>629335c74f733200a5831b818110c74d</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2017-07-11 08:05:00</sys_updated_on>
+                        <value>com.glide.cms.RenderBlock</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>type</name>
+                        <portal_section display_value="Created 2017-07-11 01:05:00">ea9335c74f733200a5831b818110c738</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2017-07-11 08:05:00</sys_created_on>
+                        <sys_id>a69335c74f733200a5831b818110c74d</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2017-07-11 08:05:00</sys_updated_on>
+                        <value>content_block_lists</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>current_page</name>
+                        <portal_section display_value="Created 2017-07-11 01:05:00">ea9335c74f733200a5831b818110c738</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2017-07-11 08:05:00</sys_created_on>
+                        <sys_id>ea9335c74f733200a5831b818110c74d</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2017-07-11 08:05:00</sys_updated_on>
+                        <value>5cfc0e5c0a0a0bb10119419823fd0d82</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+        </related_items_node>
+    </sys_portal>
+    <content_page action="INSERT_OR_UPDATE">
+        <content_site display_value="TM">738335834f733200a5831b818110c7f6</content_site>
+        <content_theme/>
+        <description/>
+        <frame_buster>true</frame_buster>
+        <layout/>
+        <model_id/>
+        <model_table/>
+        <name>TM - Portal - Order Hardware</name>
+        <order/>
+        <parent_page display_value="Order Things">57f67b720a0a0bdd00f5f11df403c958</parent_page>
+        <read_roles/>
+        <roles/>
+        <selectable>true</selectable>
+        <sys_class_name>content_page</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-07-11 08:04:59</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>e69335c74f733200a5831b818110c719</sys_id>
+        <sys_mod_count>6</sys_mod_count>
+        <sys_name>TM - Portal - Order Hardware</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="TM" source="x_13174_tm">1a8b45324f333200a5831b818110c76f</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="TM">1a8b45324f333200a5831b818110c76f</sys_scope>
+        <sys_update_name>content_page_e69335c74f733200a5831b818110c719</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-07-11 08:05:00</sys_updated_on>
+        <title>Order Hardware | ESS Portal</title>
+        <url_suffix>order_hardware</url_suffix>
+        <user/>
+        <view/>
+        <workflow_state>draft</workflow_state>
+    </content_page>
+</record_update>

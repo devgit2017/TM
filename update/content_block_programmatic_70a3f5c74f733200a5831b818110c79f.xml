@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="content_block_programmatic">
+    <content_block_programmatic action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category>general</category>
+        <condition/>
+        <conditional>false</conditional>
+        <frame/>
+        <logged_on>false</logged_on>
+        <name>TM - Search Results</name>
+        <programmatic_content><![CDATA[<?xml version="1.0" encoding="utf-8"?>
+<j:jelly trim="false" xmlns:j="jelly:core" xmlns:g="glide" xmlns:j2="null" xmlns:g2="null">
+
+	<g:evaluate var="sysparm_search"> 
+                var arr = new Object();
+                var sysparm_search = RP.getParameterValue('sysparm_search');
+                sysparm_search;
+	</g:evaluate>
+        <j:set var="jvar_cms_search_result" value="true" />
+        <j:set var="jvar_ts_groupid" value="2b77ce594bd6c0d901b8fbe25ceff671" />
+        <j2:set var="sysparm_query" value="123TEXTQUERY321=${sysparm_search}" />
+        <g:call function="ts_group.xml" group_id="${jvar_ts_groupid}" query="$[sysparm_query]" />
+
+</j:jelly>]]></programmatic_content>
+        <sys_class_name>content_block_programmatic</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-07-11 08:05:09</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>70a3f5c74f733200a5831b818110c79f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>TM - Search Results</sys_name>
+        <sys_package display_value="TM" source="x_13174_tm">1a8b45324f333200a5831b818110c76f</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="TM">1a8b45324f333200a5831b818110c76f</sys_scope>
+        <sys_update_name>content_block_programmatic_70a3f5c74f733200a5831b818110c79f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-07-11 08:05:09</sys_updated_on>
+        <two_phase>true</two_phase>
+    </content_block_programmatic>
+</record_update>

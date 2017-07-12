@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="content_block_static">
+    <content_block_static action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category>general</category>
+        <condition/>
+        <conditional>false</conditional>
+        <frame/>
+        <logged_on>false</logged_on>
+        <name>TM - Portal - Footer</name>
+        <static_content><![CDATA[
+<br />
+<div class="cms_footer_container">
+     <p class="cms_footer">Service Portal powered by ServiceNow</p>
+     
+</div>
+<br />]]></static_content>
+        <sys_class_name>content_block_static</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-07-11 08:04:50</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>cc9331c74f733200a5831b818110c7fe</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>TM - Portal - Footer</sys_name>
+        <sys_package display_value="TM" source="x_13174_tm">1a8b45324f333200a5831b818110c76f</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="TM">1a8b45324f333200a5831b818110c76f</sys_scope>
+        <sys_update_name>content_block_static_cc9331c74f733200a5831b818110c7fe</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-07-11 08:04:50</sys_updated_on>
+    </content_block_static>
+    <sys_translated_text action="delete_multiple" query="documentkey=cc9331c74f733200a5831b818110c7fe"/>
+</record_update>
